@@ -1,15 +1,15 @@
-# @ali/example-component
+# @vearvip/giao-ui
 
 组件功能描述
 
 ## Install
 
 ```bash
-$ npm i @ali/example-component --save
+$ npm i @vearvip/giao-ui --save
 ```
 
 ## Usage
 
 ```jsx
-import ExampleComponent from '@ali/example-component';
+import { Button } from '@vearvip/giao-ui';
 ```

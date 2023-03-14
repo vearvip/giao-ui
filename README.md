@@ -10,6 +10,6 @@ $ npm i @ali/example-component --save
 
 ## Usage
 
-```js
+```jsx
 import ExampleComponent from '@ali/example-component';
 ```
